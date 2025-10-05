@@ -6,6 +6,8 @@ st.set_page_config(page_title="My Resume", page_icon="📄", layout="centered")
 # ---- Header Section ----
 st.title("Mohd Syahir's Resume")
 
+st.image("pprofile.jpg", width=150)
+
 # ---- Contact Information ----
 st.header("📞 Contact Information")
 st.write("""
